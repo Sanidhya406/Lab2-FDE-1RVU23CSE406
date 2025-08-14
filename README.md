@@ -1,1 +1,1 @@
-# Lab2-FDE-1RVU23CSE406
+Lab 2 - Fundamentals of Data Engineering - CS3238
